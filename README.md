@@ -1,2 +1,2 @@
-# rastrocollective
-Visual trace creation | lights #rastrøcollective
+# lighting design
+Visual trace creation | lights #bruninraolaser
